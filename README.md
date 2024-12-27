@@ -129,7 +129,7 @@ public class SetProblem {
 }
 ```
 
-### Topic: Regex
+## Topic: Regex
 
  Find and return true or false if String contains orderUUID
 
@@ -155,7 +155,7 @@ Find and return how many orders were created from this string
 app=edi_adapter_splitter wingtipsTrace=225debfbe6e5fac7 poiFileName=Integration_test_Contract INFO  LogUtils - POI file name: [Integration_test_Contract], total number of orders successfully processed: [2]
 ```
 
-### Topic: Java Core. Practice 
+## Topic: Java Core. Practice 
 
 Print to console all the words that start on 'de'.
 
