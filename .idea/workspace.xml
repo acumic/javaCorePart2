@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="2qnFnl9My09L2pqQ6LtSLx5qKSa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -19,6 +26,20 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part1" />
+      <module name="javaCorePart2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Part1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,6 +59,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="112" key="#Project_Structure/0.0.1440.900/1440.-978.2560.1415@0.0.1440.900" timestamp="1735290676886" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1735292014795">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-978.2560.1415@0.0.1440.900" timestamp="1735292014795" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1735292014794">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.-978.2560.1415@0.0.1440.900" timestamp="1735292014794" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1735292014793">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.-978.2560.1415@0.0.1440.900" timestamp="1735292014793" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1735292014795">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.-978.2560.1415@0.0.1440.900" timestamp="1735292014795" />
     <state x="397" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1735290605705">
       <screen x="0" y="25" width="1440" height="809" />
     </state>
